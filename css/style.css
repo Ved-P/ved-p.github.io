@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #ff8833;
+  height: 100%;
+  overflow-y: hidden;
+}
+
+.textbox {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  width: 60vw;
+  margin-top: 25vh;
+  margin-bottom: 25vh;
+  height: 50vh;
+  overflow:hidden;
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 30px;
+  padding: 20px;
+  box-sizing: border-box;
+}
