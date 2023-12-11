@@ -21,4 +21,16 @@ body {
   border-radius: 30px;
   padding: 20px;
   box-sizing: border-box;
+  text-align:center;
+}
+
+#name {
+  width: 60%;
+  height: auto;
+}
+
+#subtitle {
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 35px;
+  margin-top: -7px;
 }
