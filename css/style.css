@@ -13,6 +13,12 @@ p {
   font-size: 25px;
 }
 
+h1 {
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 35px;
+  font-weight: normal;
+}
+
 .textbox {
   margin-left: 20vw;
   margin-right: 20vw;
@@ -22,6 +28,7 @@ p {
   background-color: white;
   border-radius: 30px;
   padding: 20px;
+  padding-top: 30px;
   box-sizing: border-box;
   text-align:center;
 }
@@ -33,18 +40,30 @@ p {
 }
 
 .spacing {
-  height: 23vh;
+  height: 25vh;
+}
+
+.short-spacing {
+  height: 21vh;
+}
+
+.navigation {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  background-color: #ff8833;
+  border-radius: 5px;
+  font-family: 'Martian Mono', monospace;
+  font-size: 20px;
+}
+
+.contact {
+  color: #ff8833;
 }
 
 #name {
   width: 60%;
   height: auto;
-}
-
-#subtitle {
-  font-family: 'Comfortaa', sans-serif;
-  font-size: 35px;
-  margin-top: -7px;
 }
 
 #arrow {
