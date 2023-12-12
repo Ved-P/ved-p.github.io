@@ -19,6 +19,26 @@ h1 {
   font-weight: normal;
 }
 
+button {
+  text-decoration: none;
+  color: white;
+  background-color: #ff8833;
+  border: 0px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: -10px;
+  font-family: 'Martian Mono', monospace;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #f7802b;
+}
+
+button:active {
+  background-color: #ef7823;
+}
+
 .textbox {
   margin-left: 20vw;
   margin-right: 20vw;
@@ -45,24 +65,6 @@ h1 {
 
 .short-spacing {
   height: 21vh;
-}
-
-.navigation {
-  text-decoration: none;
-  color: white;
-  padding: 10px;
-  background-color: #ff8833;
-  border-radius: 5px;
-  font-family: 'Martian Mono', monospace;
-  font-size: 20px;
-}
-
-.navigation:hover {
-  background-color: #f7802b;
-}
-
-.navigation:active {
-  background-color: #ef7823;
 }
 
 .contact {
