@@ -57,8 +57,24 @@ h1 {
   font-size: 20px;
 }
 
+.navigation:hover {
+  background-color: #f7802b;
+}
+
+.navigation:active {
+  background-color: #ef7823;
+}
+
 .contact {
   color: #ff8833;
+}
+
+.contact:hover {
+  color: #f7802b;
+}
+
+.contact:active {
+  color: #ef7823;
 }
 
 #name {
