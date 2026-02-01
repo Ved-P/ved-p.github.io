@@ -6,6 +6,8 @@ Hi there, hello! My name is Ved Pradhan, and I am a third-year student at UC San
 
 Outside of academics, I love playing board games and card games, reading mystery novels and spy thrillers, and listening to classical, cinematic, and barbershop music!
 
+<!-- ctf{y0u_f0und_th3_3ast3r_3gg} -->
+
 ## Contact
 
 - Personal Email: [vedprad1@gmail.com](mailto:vedprad1@gmail.com)
