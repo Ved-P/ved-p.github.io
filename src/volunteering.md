@@ -12,7 +12,7 @@ In June of 2024, my role at HCMMC was expanded, as I joined the executive board 
 
 As of January 2026, I have written over 60 questions for HCMMC, and I continue to write with as much enthusiasm as I did six years ago! Writing HCMMC problems is more than just math; it is an art form, a medium of self-expression, and an outlet for creativity. I am eternally grateful for this opportunity, and I am excited for what's yet to come!
 
-I also made the website for HCMMC! Check it out at [hcmmc-site.github.io](https://hcmmc-site.github.io).
+I also made the website for HCMMC! Check it out at [hcmmc.org](https://hcmmc.org).
 
 ## Other
 
