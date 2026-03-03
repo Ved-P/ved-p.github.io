@@ -4,7 +4,7 @@
 
 *Since March 2020*
 
-The Harrison Chen Memorial Math Competition, or HCMMC, is the best free math competition for elementary and middle schoolers (and adults!) in the Bay Area. After participating in HCMMC from 2016 to 2019, I wrote my first problem for the contest during March of 2020 in my capacity as a Teaching Assitant for Cupertino Math Olympiads. During my high school years, I continued to write HCMMC problems, and I also helped "holepoke" various contest divisions as well as proctor both in-person and online editions of the competition. In 2022, I served as one of the Lead Volunteers at the event, coordinating communication and organizing logistics among my fellow volunteers.
+The Harrison Chen Memorial Math Competition, or HCMMC, is the best free math competition for elementary and middle schoolers (and adults!) in the Bay Area. After participating in HCMMC from 2016 to 2019, I wrote my first problem for the contest during March of 2020 in my capacity as a Teaching Assistant for Cupertino Math Olympiads. During my high school years, I continued to write HCMMC problems, and I also helped "holepoke" various contest divisions as well as proctor both in-person and online editions of the competition. In 2022, I served as one of the Lead Volunteers at the event, coordinating communication and organizing logistics among my fellow volunteers.
 
 <img src="img/hcmmc.png" alt="HCMMC Awards Ceremony" style="display: block;margin-left: auto;margin-right: auto;width: 60%;"/>
 
