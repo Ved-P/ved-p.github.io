@@ -1,5 +1,12 @@
 # Projects
 
+## emerald
+
+*May 2026 to June 2026* <br>
+*[github.com/Ved-P/emerald](https://github.com/Ved-P/emerald)*
+
+Modern AI applications increasingly rely on multi-agent harnesses defined by skill files that are downloaded from untrusted external sources such as ClawHub. Often, such skills look benign in isolation but only introduce vulnerabilities when used in composition. My project, EMERALD, or Epistemic Machines Enabling Risky Agentic Language Detection, uses epistemic state machines and belief propogation to model skill harnesses, characterize and detect common vulnerability types via graph analysis, and generate detailed reports of findings grouped by severity. It combines both rapid lexical analysis as well as multi-agent orchestration powered by Claude. This project was completed for CMPSC 292C: Formal Methods for Agentic Programming at UC Santa Barbara.
+
 ## fuzz-bizz
 
 *November 2025 to December 2025* <br>
