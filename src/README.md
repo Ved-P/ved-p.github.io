@@ -1,6 +1,6 @@
 # Home
 
-<img src="img/sbhacks-pfp-circle.png" alt="Ved Pradhan" style="display: block;margin-left: auto;margin-right: auto;width: 30%;"/>
+<img src="img/gradpfpcrop-circle.png" alt="Ved Pradhan" style="display: block;margin-left: auto;margin-right: auto;width: 30%;"/>
 
 Hi there, hello! My name is Ved Pradhan, and I am a third-year student at UC Santa Barbara in the BS/MS program majoring in Computer Science. I am very passionate about cybersecurity and (post-)quantum cryptography, and I have multiple software engineering internships and CTF competition experiences under my belt (including winning the 2024 undergraduate division of iCTF!).
 
