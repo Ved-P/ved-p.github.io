@@ -2,10 +2,10 @@
 
 ## Associate Cybersecurity Engineer Intern -- *Visa*
 
-*June 2026 to September 2026 (Expected)* <br>
+*June 2026 to September 2026* <br>
 *Foster City, CA*
 
-I am happy to announce that I will be working at Visa this summer as an Associate Cybersecurity Engineer Intern!
+As a member of the Security Architecture team, I extended GitHub Advanced Security CodeQL findings with an intelligent system that identifies underlying attack chains, generates attack narratives and remediation guidance, and prioritizes actionable security risks over individual alert occurrences. I owned the core design of the chaining and intelligence architecture, combining deterministic logic with LLM-based analysis to automate the developer security-review experience. I deployed it across 100+ repositories and thousands of findings; in a representative test, it consolidated ~260 individual alerts into ~60 underlying risk chains (~77% reduction in alert volume). I built automated workflows for false-positive filtering, remediation, and security reporting; contributed to additional projects involving frontier-model security analysis and model-release security research.
 
 ## Software Engineering Intern -- *Intuitive Surgical*
 
