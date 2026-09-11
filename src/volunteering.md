@@ -10,11 +10,11 @@ The Harrison Chen Memorial Math Competition, or HCMMC, is the best free math com
 
 In June of 2024, my role at HCMMC was expanded, as I joined the executive board of organizers of the event. I began developing problems at a much higher rate than before, and I played a larger role in problem selection and contest curation. Since HCMMC 2025, I have assisted in large-scale event logistics, including coordinating registration across all divisions. Starting from HCMMC 2026, I transitioned into the role of Chief Technology Officer (CTO), overtaking it from the great Nathaniel Satriya. My responsibilities now include leading the contest activites and liaising between participants, parents, volunteers, and location staff during the day of the event. 
 
-As of January 2026, I have written over 60 questions for HCMMC, and I continue to write with as much enthusiasm as I did six years ago! Writing HCMMC problems is more than just math; it is an art form, a medium of self-expression, and an outlet for creativity. I am eternally grateful for this opportunity, and I am excited for what's yet to come!
+As of September 2026, I have written over 90 questions for HCMMC, and I continue to write with as much enthusiasm as I did six years ago! Writing HCMMC problems is more than just math; it is an art form, a medium of self-expression, and an outlet for creativity. I am eternally grateful for this opportunity, and I am excited for what's yet to come!
 
 I also made the website for HCMMC! Check it out at [hcmmc.org](https://hcmmc.org).
 
 ## Other
 
-- As a member of UCSB's COE Honors Program, I regularly volunteer in an around the UCSB community. I have assisted with registration at UCSB's career fairs, served as a proctor at UCSB's Science Olympiad tournament, helped lead arts and crafts activities at Isla Vista Elementary School fairs, and tutored fellow students in a program led by Tau Beta Pi at UCSB.
+- As a member of UCSB's COE Honors Program, I regularly volunteer in and around the UCSB community. I have assisted with registration at UCSB's career fairs, served as a proctor at UCSB's Science Olympiad tournament, helped lead arts and crafts activities at Isla Vista Elementary School fairs, and tutored fellow students in a program led by Tau Beta Pi at UCSB.
 - While in high school, I volunteered with RemoteTA, helping elementary school teachers across the nation develop educational materials during and after the pandemic.
